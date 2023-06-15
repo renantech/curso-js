@@ -82,3 +82,8 @@
 - aula81 - Promisses
 - aula82 - métodos úteis para Promises
 - aula83 - async/await
+- aula84 - XMLHttpRequest (GET) + Promises
+- aula85 - Fetch API (GET)
+- aula86 - Fetch API e AXIOS (JSON)
+- aula87 - babel e "can i use"
+- aula88 - Webpack (Boilerplate)
