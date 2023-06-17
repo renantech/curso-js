@@ -87,3 +87,5 @@
 - aula86 - Fetch API e AXIOS (JSON)
 - aula87 - babel e "can i use"
 - aula88 - Webpack (Boilerplate)
+- aula89 - ES6 Modules - Import/Export
+- aula90 - criando um gerador de cpf
