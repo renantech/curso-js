@@ -88,4 +88,10 @@
 - aula87 - babel e "can i use"
 - aula88 - Webpack (Boilerplate)
 - aula89 - ES6 Modules - Import/Export
-- aula90 - criando um gerador de cpf
+- aula90 - criando um validador de cpf
+- aula91 - criando um gerador de cpf
+- aula92 - core-js e regenerator-runtime
+
+
+## Materiais/Links de apoio
+https://pt.wikipedia.org/wiki/ASCII
