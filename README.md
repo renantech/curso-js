@@ -92,6 +92,9 @@
 - aula91 - criando um gerador de cpf
 - aula92 - core-js e regenerator-runtime
 
+## Node
+- aula01 - módulos1
+
 
 ## Materiais/Links de apoio
 https://pt.wikipedia.org/wiki/ASCII
