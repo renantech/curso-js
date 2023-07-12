@@ -94,6 +94,12 @@
 
 ## Node
 - aula01 - módulos1
+- aula02 - módulos2
+- aula03 - NPM (Node Packager Manager)
+- aula04 - listando arquivos com FS e recursão mútua
+- aula05 - escrevendo e lendo arquivos
+- aula06 - express
+- aula07 - express + nodemon
 
 
 ## Materiais/Links de apoio
