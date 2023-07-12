@@ -100,6 +100,7 @@
 - aula05 - escrevendo e lendo arquivos
 - aula06 - express
 - aula07 - express + nodemon
+- aula08 - express - req.params, req.query, e req.body
 
 
 ## Materiais/Links de apoio
